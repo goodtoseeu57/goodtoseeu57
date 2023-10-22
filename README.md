@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chris, a passionate software engineer who thrives on innovation and creativity. I'm definitely not your typical "PL" person, but I'm all about crafting amazing software solutions. Let's create, code, and innovate together!
+I'm Chris, a passionate software engineer who thrives on innovation and creativity. I'm definitely not your typical "PL" person, but I'm all about crafting amazing software solutions.
 
 My blog in case you're interested :) https://giannako.co.uk/
 
